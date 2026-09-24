@@ -1,9 +1,0 @@
-sqlalchemy>=2.0
-fastapi
-uvicorn[standard]
-anthropic>=1.8
-python-dotenv
-
-# tests
-pytest
-httpx
